@@ -17,4 +17,5 @@ do
 	rm -f $file.log;
 	rm -f $file.tex.backup;
 	rm -f $file.aux;
+	rm -f $file.out;
 done;
