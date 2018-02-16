@@ -18,4 +18,5 @@ do
 	rm -f $file.tex.backup;
 	rm -f $file.aux;
 	rm -f $file.out;
+	rm -f $file.toc;
 done;
