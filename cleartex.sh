@@ -19,4 +19,8 @@ do
 	rm -f $file.aux;
 	rm -f $file.out;
 	rm -f $file.toc;
+	rm -f $file.nav;
+	rm -f $file.bbl;
+	rm -f $file.blg;
+	rm -f $file.snm;
 done;
