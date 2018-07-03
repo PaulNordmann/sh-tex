@@ -29,6 +29,6 @@ echo '\usepackage{lmodern}'>> $file;
 echo '\usepackage[utf8]{inputenc}'>> $file;
 echo '\n\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\n'>> $file;
 echo '\\begin{document}\n\n'>> $file;
-echo '\end{document}'>> $file;
+echo '\\end{document}'>> $file;
 
 

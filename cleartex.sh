@@ -16,6 +16,7 @@ do
 	file=${tex%\.tex};
 	rm -f $file.log;
 	rm -f $file.tex.backup;
+	rm -f $file.synctex.gz;
 	rm -f $file.aux;
 	rm -f $file.out;
 	rm -f $file.toc;
